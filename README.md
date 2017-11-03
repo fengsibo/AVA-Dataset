@@ -1,6 +1,6 @@
 # AVA-Dataset
 
-The [AVA dataset](https://research.google.com/ava/) contains 192 videos split into 154 training and 38 test videos. Each video has 15 minutes annotated in 3 second intervals, resulting in 300 annotated segments. These annotations are specified by two CSV files: [ava_train_v1.0.csv](ava_train_v1.0.csv) and ava_test_v1.0.csv.
+The [AVA dataset](https://research.google.com/ava/) contains 192 videos split into 154 training and 38 test videos. Each video has 15 minutes annotated in 3 second intervals, resulting in 300 annotated segments. These annotations are specified by two CSV files: ava_train_v1.0.csv and ava_test_v1.0.csv.
 
 Each row contains an annotation for one person performing an action in an interval, where that annotation is associated with the middle frame. Different persons and multiple action labels are described in separate rows.
 
@@ -24,7 +24,9 @@ label{
     name: "crouch/kneel"label_id: 3label_type: PERSON_MOVEMENT
 }
 ```
+#### Download
 
+Waiting for upload.
 
 #### Not available video list
 
