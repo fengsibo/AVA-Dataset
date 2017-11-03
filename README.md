@@ -56,3 +56,13 @@ test set:
 | -------- |
 | XIx-C22Ewk4 |
 | bnW1PXGt5hw |
+
+#### Changed label
+
+Some original video_id shows the problem in the csv file, where we changed label name, it is not affect to use data set. If you want get original YouTube identifier, remove the prefix 'issue'.
+
+train set:
+
+| original video_id | changed video_id |
+| -FaXLcSFjUI | issue-FaXLcSFjUI |
+| -IELREHX_js | issue-IELREHX_js |
