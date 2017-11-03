@@ -64,5 +64,6 @@ Some original video_id shows the problem in the csv file, where we changed label
 train set:
 
 | original video_id | changed video_id |
+| ----------------- | ---------------- |
 | -FaXLcSFjUI | issue-FaXLcSFjUI |
 | -IELREHX_js | issue-IELREHX_js |
