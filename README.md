@@ -26,7 +26,8 @@ label{
 ```
 #### Download
 
-Waiting for upload.
+link: https://pan.baidu.com/s/1i4UKnqt 
+code: mail to sibofeng AT mail.bnu.edu.cn
 
 #### Not available video list
 
