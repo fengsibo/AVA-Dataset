@@ -26,7 +26,7 @@ label{
 ```
 #### Download
 
-link: https://pan.baidu.com/s/1i4UKnqt 
+link:https://pan.baidu.com/s/1i4UKnqt pass:rmkw
 
 code: mail to sibofeng AT mail.bnu.edu.cn
 
